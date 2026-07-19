@@ -67,7 +67,7 @@ Python • Streamlit • LangChain • Mistral AI • ChromaDB
 
 ## 📜 Certifications
 
-- Microsoft Generative AI Training
+- Generative AI Training
 - Data Analytics with Python
 - Deloitte Technology Virtual Experience (Forage)
 - Google Developer Groups (GDG) App Development Workshop
